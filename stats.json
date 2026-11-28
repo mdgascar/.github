@@ -1,0 +1,22 @@
+{
+  "updated": "2026-11-28",
+  "repositories": 8,
+  "stars": 0,
+  "forks": 0,
+  "contributors": 1,
+  "commits": 167,
+  "mergedPullRequests": 186,
+  "specVersion": "0.9.0",
+  "modules": 4,
+  "vectors": 492,
+  "languages": {
+    "JavaScript": 20398,
+    "Shell": 3029,
+    "TypeScript": 303545,
+    "Just": 5068,
+    "PHP": 228333,
+    "MDX": 118359,
+    "Astro": 37990,
+    "CSS": 6297
+  }
+}
